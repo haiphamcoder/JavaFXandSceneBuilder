@@ -1,4 +1,4 @@
-package P0_HelloWorld;
+package P1_HelloWorld;
 
 import javafx.fxml.FXML;
 import javafx.scene.input.MouseEvent;

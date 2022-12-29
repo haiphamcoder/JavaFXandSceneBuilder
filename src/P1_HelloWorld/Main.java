@@ -1,4 +1,4 @@
-package P0_HelloWorld;
+package P1_HelloWorld;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
